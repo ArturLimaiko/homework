@@ -3,6 +3,8 @@ import s from './HW4.module.css';
 import { Button } from './Button';
 import { Input } from './Input';
 
+
+
 export const HW4 = () => {
   // 1️⃣ Раскомментируйте JSX (HW4.tsx) и вы увидите,
   // что приложение начнет гореть красным и ругаться 😡
