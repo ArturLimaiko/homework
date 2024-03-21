@@ -1,6 +1,5 @@
 import React from 'react';
 
-
 export type UserType = {
     id: number
     name: string
